@@ -55,10 +55,4 @@ ratios = {
 
 st.table(pd.DataFrame.from_dict(ratios, orient='index', columns=["Valeur"]))
 
-# --- INSTRUCTION POUR OUVERTURE DANS GOOGLE CHROME ---
-st.markdown("""
----
-### 🔗 Ouvrir automatiquement dans Google Chrome
-
-Pour lancer l'application :
 
