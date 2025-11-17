@@ -62,12 +62,3 @@ st.markdown("""
 
 Pour lancer l'application :
 
-```
-streamlit run Calculateur_de_ratios_financiers.py
-```
-
-Elle s'ouvrira automatiquement dans **Google Chrome** si celui-ci est votre navigateur par défaut.
-
-Si vous souhaitez un **lien accessible sur internet**, je peux vous le déployer gratuitement sur **Streamlit Cloud** :
-➡️ *Dites‑moi juste « déploie-le en ligne »*.
-"""
